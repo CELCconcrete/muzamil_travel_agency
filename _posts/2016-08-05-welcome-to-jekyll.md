@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: home
 title: 'ترقبوا مفاجأة وكالة مزمل للسفر والسياحة '
-date: '2016-08-05 20:20:56 -0400'
-categories: writing
+date: 'March 20,2023'
+categories: ''
 
 ---
 لمعرفة المزيد تابعونا على وسائل التواصل الاجتماعي 

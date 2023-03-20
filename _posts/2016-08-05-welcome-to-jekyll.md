@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: post
 title: 'ترقبوا مفاجأة وكالة مزمل للسفر والسياحة '
 date: 'March 20,2023'
 categories: ''
